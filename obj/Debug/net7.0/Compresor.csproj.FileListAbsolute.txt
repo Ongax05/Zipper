@@ -1,0 +1,14 @@
+C:\Users\jhose\Desktop\Compresor\bin\Debug\net7.0\Compresor.exe
+C:\Users\jhose\Desktop\Compresor\bin\Debug\net7.0\Compresor.deps.json
+C:\Users\jhose\Desktop\Compresor\bin\Debug\net7.0\Compresor.runtimeconfig.json
+C:\Users\jhose\Desktop\Compresor\bin\Debug\net7.0\Compresor.dll
+C:\Users\jhose\Desktop\Compresor\bin\Debug\net7.0\Compresor.pdb
+C:\Users\jhose\Desktop\Compresor\obj\Debug\net7.0\Compresor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhose\Desktop\Compresor\obj\Debug\net7.0\Compresor.AssemblyInfoInputs.cache
+C:\Users\jhose\Desktop\Compresor\obj\Debug\net7.0\Compresor.AssemblyInfo.cs
+C:\Users\jhose\Desktop\Compresor\obj\Debug\net7.0\Compresor.csproj.CoreCompileInputs.cache
+C:\Users\jhose\Desktop\Compresor\obj\Debug\net7.0\Compresor.dll
+C:\Users\jhose\Desktop\Compresor\obj\Debug\net7.0\refint\Compresor.dll
+C:\Users\jhose\Desktop\Compresor\obj\Debug\net7.0\Compresor.pdb
+C:\Users\jhose\Desktop\Compresor\obj\Debug\net7.0\Compresor.genruntimeconfig.cache
+C:\Users\jhose\Desktop\Compresor\obj\Debug\net7.0\ref\Compresor.dll
